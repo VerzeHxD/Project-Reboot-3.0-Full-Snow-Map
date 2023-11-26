@@ -13,3 +13,7 @@
 # **Where Should I Get Fortnite Builds From?**
 
 - [**My Github**](https://github.com/VerzeHxD/Fortnite-Builds)
+
+# **How Do I Get The DLL Without Building The SLN?**
+
+- [**You Can Download It From Here! (Under Assets Click "Source Code (Zip) To Download It!)"**](https://github.com/VerzeHxD/Project-Reboot-3.0-Full-Snow-Map/releases/tag/DLL)
