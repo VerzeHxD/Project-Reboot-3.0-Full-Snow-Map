@@ -1,11 +1,15 @@
-# Project Reboot 3.0
+# **Project Reboot 3.0**
 
-I have quit the community and the project is discontinued 😢.
+# **Credits**
 
-S3-S15 (S16-S19 is slightly supported)
+- [@**Verze**](https://github.com/VerzeHxD)
+- [@**Milxnor**](https://github.com/Milxnor)
+- [**Original Project Reboot 3.0**](https://github.com/Milxnor/Project-Reboot-3.0)
 
-## TODO
+# **What Is "Project Reboot V3"?**
 
-- Rewrite picking up code.
-- Rewrite dllmain
-- Move hooking to each class (for example, AFortGameModeAthena::InitHooks).
+- **Project Reboot V3 Is A GameServer For Old Fortnite Builds (S3 - S19)**
+
+# **Where Should I Get Fortnite Builds From?**
+
+- [**My Github**](https://github.com/VerzeHxD/Fortnite-Builds)
