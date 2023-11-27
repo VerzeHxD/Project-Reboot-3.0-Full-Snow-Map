@@ -16,4 +16,4 @@
 
 # **How Do I Get The DLL Without Building The SLN?**
 
-- [**You Can Download It From Here! (Under Assets Click "Source Code (Zip) To Download It!)"**](https://github.com/VerzeHxD/Project-Reboot-3.0-Full-Snow-Map/releases/tag/DLL)
+- [**You Can Download It From Here! (Released Tab & This Link!)**](https://github.com/VerzeHxD/Project-Reboot-3.0-Full-Snow-Map/releases/download/DLL/Project_Reboot_3.0_Full_Snow_Map.rar)
